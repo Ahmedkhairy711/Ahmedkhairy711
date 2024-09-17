@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Khairy!:
+# 💫 Hi, I'm Khairy!
 <br>👋 Welcome to my GitHub!<br>👨‍💻 I’m a passionate mobile app developer with expertise in building efficient,<br> user-friendly, and scalable apps. <br>⚡ Fun fact I love tech and Apple fan boy.
 
 

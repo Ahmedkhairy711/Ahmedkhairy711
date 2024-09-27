@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Khairy</h1>
-<h3 align="center">Software Engineer</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
-## About
-I’m a passionate mobile app developer with expertise in building efficient,<br> user-friendly, and scalable apps. <br>⚡ Fun fact I love tech and Apple fan boy.
+
+# About
+I am a Mobile App Developer with expertise in building high-performance, user-centric mobile applications for both iOS and cross-platform environments. My core skills span iOS Native Development with Swift and SwiftUI, along with Flutter for cross-platform development.
+<br>⚡ Fun fact I love tech and Apple fan boy.
 
 ![me](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g0czM5bzIwZm5reXhqdXhzaGNsdGQ1NjRhdGt3dDU0aGJ5Z3VucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif)
 
